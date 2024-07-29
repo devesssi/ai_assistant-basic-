@@ -1,4 +1,4 @@
-import pyttsx3      #ctrl+x # ctrl+slash/ #install pyaudio
+import pyttsx3      #install pyaudio
 import speech_recognition as sr
 import datetime
 import wikipedia
